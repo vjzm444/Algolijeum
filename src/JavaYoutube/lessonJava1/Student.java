@@ -4,7 +4,7 @@
 만든이 : 송현주
 코멘트 : 1번 학생이름 저장 및 검색
 */
-package lesson;
+package JavaYoutube.lessonJava1;
 
 public class Student {
   private String name;
