@@ -1,4 +1,4 @@
-package AlgolijeumTest.test1;
+package algolijeumTest.test1;
 import java.util.*;
 
 public class PartyMember {
@@ -12,7 +12,7 @@ public class PartyMember {
 
         for (int i = 0; i < n; i++) { //해당사람의 공포값 입력
             arrayList.add(sc.nextInt());
-        }
+        }//hhh
 
         Collections.sort(arrayList); //솔트한다
 
