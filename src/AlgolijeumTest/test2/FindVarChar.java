@@ -1,5 +1,7 @@
 package AlgolijeumTest.test2;
-
+/*
+ * 입력받은 문자 몇개인지 카운트하기
+ * */
 
 import java.util.ArrayList;
 
